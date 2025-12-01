@@ -1,0 +1,231 @@
+Timestamp,Study Level,Section,Has Conflict,Num Conflicts,Do you care?,Reason
+13/11/2025 14:14:18,BA3,Mechanical Engineering,No,,,
+13/11/2025 14:21:39,BA5,Mechanical Engineering,No,,,
+13/11/2025 15:32:32,BA5,Computer Science,No,,,
+13/11/2025 16:05:56,BA1,Data Science,No,,,
+13/11/2025 16:47:07,BA5,Robotics,No,,,
+13/11/2025 17:20:37,BA5,Physics,No,,,
+13/11/2025 17:22:04,BA1,Computer Science,Yes,1.0,Yes,Curriculum Requirement
+13/11/2025 17:50:53,BA3,Mechanical Engineering,No,,,
+13/11/2025 18:30:53,Master,Communication Systems,No,,,
+13/11/2025 19:16:10,Master,Mechanical Engineering,Yes,1.0,Yes,Academic Interest
+13/11/2025 22:46:24,BA1,Physics,No,,,
+13/11/2025 23:05:46,BA5,Mechanical Engineering,Yes,1.0,Yes,Academic Interest
+13/11/2025 23:34:42,BA3,Data Science,No,,,
+14/11/2025 13:16:03,BA5,Physics,Yes,3.0,No,Limited Alternatives
+14/11/2025 13:29:03,BA1,Physics,No,,,
+14/11/2025 14:17:46,Master,Physics,Yes,1.0,No,Academic Interest
+14/11/2025 14:39:23,BA3,Computer Science,Yes,2.0,Yes,Academic Interest
+14/11/2025 14:51:22,BA5,Mechanical Engineering,No,,,
+14/11/2025 15:10:39,BA1,Electrical and Electronics Engineering,No,,,
+14/11/2025 15:32:33,BA3,Data Science,Yes,1.0,No,Academic Interest
+14/11/2025 15:38:24,BA1,Life Sciences Engineering,No,,,
+14/11/2025 16:42:10,BA3,Physics,No,,,
+14/11/2025 17:00:19,BA5,Robotics,No,,,
+14/11/2025 17:06:14,BA5,Physics,Yes,1.0,Yes,Curriculum Requirement
+14/11/2025 17:13:34,BA1,Life Sciences Engineering,No,,,
+14/11/2025 18:02:45,Master,Computer Science,Yes,2.0,Yes,Best Schedule Fit
+14/11/2025 18:13:02,BA3,NeuroX,No,,,
+14/11/2025 18:49:49,BA5,Computer Science,Yes,1.0,Yes,Curriculum Requirement
+14/11/2025 22:32:29,BA3,Computer Science,Yes,1.0,No,Academic Interest
+14/11/2025 22:32:53,Master,NeuroX,Yes,2.0,No,Academic Interest
+14/11/2025 22:44:22,BA5,Physics,Yes,1.0,Neutral,Best Schedule Fit
+14/11/2025 22:46:51,BA5,Life Sciences Engineering,Yes,1.0,Yes,Curriculum Requirement
+15/11/2025 13:47:25,BA3,Computer Science,No,,,
+15/11/2025 14:04:16,Master,Physics,Yes,1.0,Neutral,Academic Interest
+15/11/2025 14:10:56,BA5,Physics,No,,,
+15/11/2025 15:15:35,BA5,Data Science,Yes,1.0,Neutral,Best Schedule Fit
+15/11/2025 16:09:38,Master,Computer Science,Yes,1.0,No,Best Schedule Fit
+15/11/2025 16:29:20,BA5,Physics,No,,,
+15/11/2025 17:29:34,Master,Life Sciences Engineering,Yes,1.0,Yes,Academic Interest
+15/11/2025 18:09:43,BA1,Physics,No,,,
+15/11/2025 18:25:39,Master,Robotics,Yes,2.0,Yes,Academic Interest
+15/11/2025 18:45:24,BA3,Electrical and Electronics Engineering,No,,,
+15/11/2025 19:07:06,BA1,Physics,No,,,
+15/11/2025 20:00:25,Master,Data Science,No,,,
+15/11/2025 20:50:09,BA3,Life Sciences Engineering,No,,,
+15/11/2025 21:24:08,Master,Computer Science,No,,,
+15/11/2025 21:49:28,BA1,Life Sciences Engineering,No,,,
+15/11/2025 22:53:22,BA5,Mechanical Engineering,Yes,3.0,Neutral,Academic Interest
+15/11/2025 23:42:34,Master,Computer Science,Yes,1.0,Neutral,Academic Interest
+15/11/2025 23:53:06,BA5,Robotics,Yes,1.0,Yes,Curriculum Requirement
+15/11/2025 23:53:59,Master,Computer Science,No,,,
+16/11/2025 13:25:10,BA5,Mechanical Engineering,Yes,1.0,Yes,Best Schedule Fit
+16/11/2025 13:41:46,Master,Physics,No,,,
+16/11/2025 13:46:09,Master,Computer Science,Yes,2.0,No,Academic Interest
+16/11/2025 14:07:42,BA3,Physics,No,,,
+16/11/2025 16:00:56,BA5,Computer Science,Yes,3.0,Neutral,Best Schedule Fit
+16/11/2025 16:04:44,BA3,Computer Science,No,,,
+16/11/2025 17:12:41,Master,Communication Systems,Yes,1.0,No,Academic Interest
+16/11/2025 17:14:42,BA1,Computer Science,No,,,
+16/11/2025 18:05:37,Master,Life Sciences Engineering,Yes,1.0,Yes,Academic Interest
+16/11/2025 18:12:00,BA5,Data Science,No,,,
+16/11/2025 22:12:59,BA1,Computer Science,No,,,
+16/11/2025 22:16:18,BA1,Communication Systems,No,,,
+16/11/2025 22:32:46,BA5,Electrical and Electronics Engineering,No,,,
+16/11/2025 23:59:22,BA5,Life Sciences Engineering,Yes,1.0,Neutral,Best Schedule Fit
+17/11/2025 13:01:42,BA1,Computer Science,No,,,
+17/11/2025 14:44:12,BA1,Mechanical Engineering,No,,,
+17/11/2025 15:26:23,BA1,Physics,No,,,
+17/11/2025 15:59:01,BA5,Electrical and Electronics Engineering,No,,,
+17/11/2025 16:15:46,BA5,Computer Science,Yes,3.0,Yes,Academic Interest
+17/11/2025 16:34:05,BA1,Data Science,No,,,
+17/11/2025 16:43:23,BA3,Communication Systems,No,,,
+17/11/2025 18:26:24,BA1,Physics,No,,,
+17/11/2025 18:26:44,BA5,Life Sciences Engineering,No,,,
+17/11/2025 18:53:02,Master,Communication Systems,Yes,1.0,No,Academic Interest
+17/11/2025 20:07:12,Master,NeuroX,No,,,
+17/11/2025 21:39:07,BA5,Life Sciences Engineering,Yes,1.0,Yes,Curriculum Requirement
+17/11/2025 21:52:31,BA3,Life Sciences Engineering,No,,,
+17/11/2025 21:55:16,Master,Electrical and Electronics Engineering,Yes,1.0,Neutral,Academic Interest
+17/11/2025 21:56:14,BA3,Physics,No,,,
+17/11/2025 22:24:34,Master,Data Science,Yes,1.0,Neutral,Curriculum Requirement
+17/11/2025 22:52:46,Master,Physics,Yes,2.0,Neutral,Academic Interest
+17/11/2025 23:41:06,BA5,Mechanical Engineering,Yes,2.0,Yes,Academic Interest
+17/11/2025 23:41:26,BA1,Physics,No,,,
+18/11/2025 13:01:58,BA3,Robotics,No,,,
+18/11/2025 13:51:20,BA1,Computer Science,No,,,
+18/11/2025 13:58:03,Master,Mechanical Engineering,Yes,1.0,No,Academic Interest
+18/11/2025 15:35:00,BA1,Communication Systems,No,,,
+18/11/2025 16:32:02,BA1,Robotics,No,,,
+18/11/2025 16:54:32,BA1,Mechanical Engineering,No,,,
+18/11/2025 16:56:03,Master,Life Sciences Engineering,Yes,1.0,No,Academic Interest
+18/11/2025 16:57:38,BA3,Data Science,No,,,
+18/11/2025 18:10:13,BA3,Physics,No,,,
+18/11/2025 18:16:46,BA3,Physics,No,,,
+18/11/2025 18:50:18,BA5,Communication Systems,Yes,2.0,Yes,Curriculum Requirement
+18/11/2025 18:55:21,BA1,NeuroX,No,,,
+18/11/2025 18:56:25,BA5,Data Science,No,,,
+18/11/2025 19:41:31,BA3,Physics,No,,,
+18/11/2025 22:15:23,BA5,Robotics,Yes,1.0,Yes,Academic Interest
+18/11/2025 23:20:38,Master,Communication Systems,Yes,1.0,Yes,Academic Interest
+18/11/2025 23:22:55,BA3,Electrical and Electronics Engineering,No,,,
+18/11/2025 23:59:35,BA5,Computer Science,Yes,4.0,Yes,Academic Interest
+19/11/2025 13:23:15,BA5,Communication Systems,Yes,2.0,Yes,Best Schedule Fit
+19/11/2025 15:13:56,Master,Computer Science,Yes,1.0,Yes,Academic Interest
+19/11/2025 16:12:13,Master,Physics,Yes,2.0,Yes,Academic Interest
+19/11/2025 17:12:38,BA5,Physics,Yes,2.0,Yes,Academic Interest
+19/11/2025 17:22:22,Master,Electrical and Electronics Engineering,No,,,
+19/11/2025 18:27:11,BA5,Physics,No,,,
+19/11/2025 19:22:11,BA5,Computer Science,Yes,1.0,Neutral,Academic Interest
+19/11/2025 19:31:35,BA5,Computer Science,Yes,2.0,Yes,Limited Alternatives
+19/11/2025 19:33:49,Master,NeuroX,No,,,
+19/11/2025 19:43:12,BA3,Data Science,Yes,4.0,Neutral,Curriculum Requirement
+19/11/2025 21:14:03,BA1,Physics,No,,,
+19/11/2025 22:03:41,BA5,Computer Science,Yes,1.0,Yes,Academic Interest
+19/11/2025 22:54:41,BA3,Data Science,No,,,
+19/11/2025 23:17:24,BA5,Robotics,No,,,
+19/11/2025 23:56:45,BA5,Data Science,No,,,
+20/11/2025 13:05:20,BA5,Communication Systems,Yes,1.0,Yes,Academic Interest
+20/11/2025 14:14:11,BA1,Mechanical Engineering,No,,,
+20/11/2025 14:42:05,BA1,Life Sciences Engineering,No,,,
+20/11/2025 15:05:49,BA5,Life Sciences Engineering,Yes,2.0,No,Academic Interest
+20/11/2025 17:03:29,Master,Communication Systems,No,,,
+20/11/2025 17:28:33,BA3,Communication Systems,Yes,1.0,Neutral,Curriculum Requirement
+20/11/2025 18:11:49,BA3,Communication Systems,Yes,1.0,Yes,Limited Alternatives
+20/11/2025 18:11:50,BA3,Physics,No,,,
+20/11/2025 19:08:19,BA3,Life Sciences Engineering,No,,,
+20/11/2025 19:35:33,Master,Computer Science,Yes,1.0,No,Academic Interest
+20/11/2025 19:56:32,BA3,NeuroX,No,,,
+20/11/2025 20:53:58,BA5,Life Sciences Engineering,No,,,
+20/11/2025 20:58:47,Master,Robotics,Yes,2.0,Neutral,Best Schedule Fit
+20/11/2025 21:21:41,BA1,Physics,No,,,
+20/11/2025 22:04:45,Master,Life Sciences Engineering,Yes,2.0,Neutral,Curriculum Requirement
+20/11/2025 23:15:49,BA1,Communication Systems,No,,,
+20/11/2025 23:18:35,BA3,Computer Science,No,,,
+20/11/2025 23:57:45,BA5,Electrical and Electronics Engineering,Yes,1.0,Yes,Academic Interest
+21/11/2025 13:40:47,BA5,Electrical and Electronics Engineering,No,,,
+21/11/2025 14:27:01,BA3,Life Sciences Engineering,Yes,1.0,Yes,Academic Interest
+21/11/2025 14:36:00,Master,Computer Science,No,,,
+21/11/2025 15:06:32,BA5,Physics,Yes,1.0,Neutral,Academic Interest
+21/11/2025 15:07:13,Master,NeuroX,Yes,2.0,No,Best Schedule Fit
+21/11/2025 16:05:26,BA3,Robotics,No,,,
+21/11/2025 16:59:56,BA3,Computer Science,No,,,
+21/11/2025 17:06:39,Master,Communication Systems,Yes,1.0,Yes,Best Schedule Fit
+21/11/2025 17:57:26,Master,Physics,Yes,1.0,Yes,Best Schedule Fit
+21/11/2025 18:04:27,BA1,Physics,No,,,
+21/11/2025 19:15:57,BA1,Physics,No,,,
+21/11/2025 20:15:01,BA3,NeuroX,No,,,
+21/11/2025 21:48:29,BA1,Computer Science,No,,,
+21/11/2025 22:02:25,BA1,Communication Systems,No,,,
+21/11/2025 23:03:56,BA1,Data Science,No,,,
+21/11/2025 23:05:30,Master,Electrical and Electronics Engineering,No,,,
+21/11/2025 23:17:35,BA1,Physics,No,,,
+21/11/2025 23:46:22,BA5,Physics,No,,,
+22/11/2025 13:55:53,BA1,Mechanical Engineering,No,,,
+22/11/2025 14:18:36,BA3,Communication Systems,No,,,
+22/11/2025 14:27:35,BA3,Life Sciences Engineering,No,,,
+22/11/2025 14:45:49,BA1,Communication Systems,No,,,
+22/11/2025 15:08:06,BA3,Physics,Yes,3.0,Yes,Academic Interest
+22/11/2025 16:15:41,BA1,NeuroX,No,,,
+22/11/2025 16:33:56,BA5,Physics,Yes,1.0,Yes,Academic Interest
+22/11/2025 17:30:22,BA3,Communication Systems,No,,,
+22/11/2025 20:06:40,BA3,Physics,No,,,
+22/11/2025 22:01:28,BA5,Computer Science,No,,,
+22/11/2025 23:03:58,BA1,Physics,No,,,
+22/11/2025 23:30:00,Master,Computer Science,Yes,3.0,Yes,Best Schedule Fit
+22/11/2025 23:58:46,BA3,Communication Systems,No,,,
+23/11/2025 13:53:53,BA1,Data Science,No,,,
+23/11/2025 14:06:09,BA5,Mechanical Engineering,No,,,
+23/11/2025 14:47:06,BA3,Computer Science,No,,,
+23/11/2025 14:55:52,Master,Electrical and Electronics Engineering,No,,,
+23/11/2025 15:41:02,BA1,Electrical and Electronics Engineering,No,,,
+23/11/2025 15:44:14,BA5,Mechanical Engineering,No,,,
+23/11/2025 16:35:57,BA1,Computer Science,Yes,1.0,Yes,Academic Interest
+23/11/2025 16:39:53,BA5,Physics,No,,,
+23/11/2025 17:09:36,BA3,Robotics,No,,,
+23/11/2025 17:11:45,Master,Computer Science,Yes,4.0,No,Academic Interest
+23/11/2025 17:26:09,BA3,Life Sciences Engineering,No,,,
+23/11/2025 18:15:26,BA5,Life Sciences Engineering,No,,,
+23/11/2025 18:26:07,BA1,NeuroX,No,,,
+23/11/2025 20:07:33,BA3,Robotics,No,,,
+23/11/2025 20:53:25,BA3,Computer Science,No,,,
+23/11/2025 20:54:14,BA1,Life Sciences Engineering,No,,,
+23/11/2025 21:04:41,BA5,Electrical and Electronics Engineering,Yes,1.0,Yes,Academic Interest
+23/11/2025 22:17:55,BA1,Life Sciences Engineering,No,,,
+23/11/2025 23:31:01,BA5,Computer Science,Yes,1.0,Yes,Best Schedule Fit
+23/11/2025 23:31:12,Master,Life Sciences Engineering,Yes,3.0,No,Academic Interest
+24/11/2025 14:30:30,BA1,Data Science,No,,,
+24/11/2025 14:31:30,BA5,Mechanical Engineering,Yes,1.0,Yes,Academic Interest
+24/11/2025 15:36:16,BA3,Electrical and Electronics Engineering,Yes,1.0,Yes,Limited Alternatives
+24/11/2025 18:12:57,Master,Physics,No,,,
+24/11/2025 18:34:48,BA1,Physics,No,,,
+24/11/2025 18:55:01,BA1,Communication Systems,No,,,
+25/11/2025 14:17:07,BA1,Computer Science,No,,,
+25/11/2025 14:46:12,BA3,Computer Science,Yes,1.0,Yes,Academic Interest
+25/11/2025 15:08:52,BA3,Computer Science,No,,,
+25/11/2025 17:13:45,BA5,Physics,No,,,
+25/11/2025 17:32:28,BA5,Life Sciences Engineering,No,,,
+25/11/2025 18:17:38,BA3,Computer Science,No,,,
+25/11/2025 18:30:51,BA1,Computer Science,No,,,
+25/11/2025 19:30:32,BA3,Physics,No,,,
+25/11/2025 19:34:14,Master,Electrical and Electronics Engineering,Yes,1.0,Yes,Academic Interest
+25/11/2025 21:00:42,Master,Computer Science,Yes,2.0,No,Curriculum Requirement
+25/11/2025 21:24:04,BA3,Life Sciences Engineering,No,,,
+25/11/2025 22:01:38,BA3,Computer Science,No,,,
+25/11/2025 22:28:10,BA3,Electrical and Electronics Engineering,Yes,2.0,Yes,Academic Interest
+25/11/2025 23:03:35,Master,Physics,Yes,1.0,Yes,Academic Interest
+25/11/2025 23:16:22,BA1,Computer Science,No,,,
+25/11/2025 23:46:34,Master,Computer Science,Yes,1.0,Yes,Academic Interest
+25/11/2025 23:53:46,BA3,Robotics,No,,,
+26/11/2025 13:30:09,Master,Computer Science,Yes,2.0,Neutral,Academic Interest
+26/11/2025 13:52:10,Master,Physics,Yes,1.0,Yes,Academic Interest
+26/11/2025 14:09:52,BA1,Electrical and Electronics Engineering,No,,,
+26/11/2025 14:25:40,BA1,Electrical and Electronics Engineering,No,,,
+26/11/2025 15:44:09,BA5,Communication Systems,No,,,
+26/11/2025 15:57:03,BA1,Mechanical Engineering,No,,,
+26/11/2025 16:09:38,Master,Life Sciences Engineering,No,,,
+26/11/2025 16:41:13,BA5,Computer Science,Yes,1.0,Yes,Limited Alternatives
+26/11/2025 16:57:01,Master,Mechanical Engineering,Yes,1.0,No,Limited Alternatives
+26/11/2025 16:58:34,BA5,Communication Systems,Yes,2.0,Yes,Best Schedule Fit
+26/11/2025 17:25:21,BA1,Physics,No,,,
+26/11/2025 17:58:16,Master,Physics,No,,,
+26/11/2025 17:59:02,Master,Physics,No,,,
+26/11/2025 18:45:19,Master,Computer Science,Yes,1.0,Yes,Academic Interest
+26/11/2025 19:32:56,BA5,Electrical and Electronics Engineering,No,,,
+26/11/2025 20:05:06,BA5,Communication Systems,No,,,
+26/11/2025 20:39:21,BA3,Physics,Yes,1.0,No,Best Schedule Fit
+26/11/2025 22:13:57,BA3,Mechanical Engineering,No,,,
+26/11/2025 22:29:28,BA5,Physics,No,,,
+26/11/2025 22:30:26,BA1,Physics,No,,,
+26/11/2025 23:04:51,BA3,Computer Science,Yes,1.0,Yes,Academic Interest
