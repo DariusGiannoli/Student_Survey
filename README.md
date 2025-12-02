@@ -1,1 +1,1 @@
-#EPFL Technology for Democratic Society course 
+# EPFL Technology for Democratic Society course 
